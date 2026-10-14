@@ -8,6 +8,10 @@ Android app (Flutter) that saves public Instagram reels to the phone's gallery i
 - English, हिंदी and मराठी; light/dark theme, font and text size options
 - No server: downloads run on the phone through [yt-dlp](https://github.com/yt-dlp/yt-dlp) via [youtubedl-android](https://github.com/JunkFood02/youtubedl-android), which updates itself daily
 
+## User guide
+
+Install and usage steps with screenshots: [docs/Pretty-Saver-Guide.pdf](docs/Pretty-Saver-Guide.pdf)
+
 ## Build
 
 ```
